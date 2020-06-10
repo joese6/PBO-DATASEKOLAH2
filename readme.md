@@ -1,5 +1,5 @@
-# PBO-DataSekolah
-Tugas Praktik Diklat PBO sesi 2
+# PBO-DataSekolah2
+Tugas Praktik Diklat PBO sesi 2 - REVISI
 
 Setelah menyelesaikan tugas Membuat Program Dengan Konsep Berbasis Objek, maka peserta mampu
   - Menerapkan inheritance pada class
@@ -7,7 +7,7 @@ Setelah menyelesaikan tugas Membuat Program Dengan Konsep Berbasis Objek, maka p
   - Menerapkan overloading pada class
 
 # Screenshot
-![Screenshot_292](https://user-images.githubusercontent.com/41458819/82636426-ca046080-9c2c-11ea-9d9b-27c298fb3ac6.png)
+![Screenshot_293](https://user-images.githubusercontent.com/41458819/84242256-c75da280-ab2a-11ea-9f61-484cb46bdf86.png)
 
 # Build with :
 - [Netbeans](https://netbeans.org/)
